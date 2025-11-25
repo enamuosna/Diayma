@@ -1,2 +1,1 @@
-# Diayma
-Application Web Diayma
+# Boutique Diayma
